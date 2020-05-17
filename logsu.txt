@@ -1,0 +1,23 @@
+commit b3dcf119ccb44e444feff034e842b61e87d31232
+Author: symsnowfairy <wishbest1234@web.de>
+Date:   Sun May 17 20:07:26 2020 +0200
+
+    added gitignore
+
+commit 68b72705b13fca5508cdd0b8b5eaed19dd47caab
+Author: symsnowfairy <wishbest1234@web.de>
+Date:   Sun May 17 19:54:50 2020 +0200
+
+    added gitignore
+
+commit ab788689b94634a69279e489c173376c64bc0f25
+Author: symsnowfairy <wishbest1234@web.de>
+Date:   Sun May 17 00:59:56 2020 +0200
+
+    added two files
+
+commit d6eecdcdf9c65fd86b14e6cf48c9f2ea36d13cdc
+Author: symsnowfairy <wishbest1234@web.de>
+Date:   Sun May 17 00:50:34 2020 +0200
+
+    added readme.txt
