@@ -1,2 +1,0 @@
-my-branch first line in file
-conflict line in master branche
